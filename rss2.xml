@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>longway2go</title>
+    <link>http://longway2go.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Fri, 18 May 2018 03:17:28 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>How to earn more money?</title>
+      <link>http://longway2go.github.io/2018/05/18/How-to-earn-more-money/</link>
+      <guid>http://longway2go.github.io/2018/05/18/How-to-earn-more-money/</guid>
+      <pubDate>Fri, 18 May 2018 03:17:28 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>http://longway2go.github.io/2018/05/18/How-to-earn-more-money/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>RaspberryPi-A tiny and powerful hardware</title>
+      <link>http://longway2go.github.io/2018/04/03/RaspberryPi-A-tiny-and-powerful-hardware/</link>
+      <guid>http://longway2go.github.io/2018/04/03/RaspberryPi-A-tiny-and-powerful-hardware/</guid>
+      <pubDate>Tue, 03 Apr 2018 00:46:35 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;I have a Pi, I have a Raspberry. Ah~ RasberryPi.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;What-is-RaspberryPi&quot;&gt;&lt;a href=&quot;#What-is-RaspberryP
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<blockquote><p>I have a Pi, I have a Raspberry. Ah~ RasberryPi.</p></blockquote><h2 id="What-is-RaspberryPi"><a href="#What-is-RaspberryPi" class="headerlink" title="What is RaspberryPi?"></a>What is RaspberryPi?</h2><blockquote><p>The <a href="https://en.wikipedia.org/wiki/Raspberry_Pi" target="_blank" rel="noopener">Raspberry Pi</a> is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries.</p></blockquote><h2 id="What-can-RaspberryPi-do"><a href="#What-can-RaspberryPi-do" class="headerlink" title="What can RaspberryPi do?"></a>What can RaspberryPi do?</h2><p>I’m a software developer, so I just foucs on software application. I bought my Raspberry Pi Mode 3B on 2017-03-06. Here’s my applications:</p><ol><li>Build your own blog site.</li><li>Build your own version control system server.</li><li>Auto publish your own Book.</li><li>Auto send mails.</li></ol><h2 id="Build-your-own-blog-site"><a href="#Build-your-own-blog-site" class="headerlink" title="Build your own blog site"></a>Build your own blog site</h2><p>Using Hexo, you can build your own blog site in RaspberryPi.</p><p>Here’s the installation steps:</p><ol><li>Install node.JS and npm.</li><li>Install hexo-cli.</li><li>Init your blog directory.</li><li>Cfg your blog site.</li></ol><h2 id="Build-your-own-version-control-system-server"><a href="#Build-your-own-version-control-system-server" class="headerlink" title="Build your own version control system server"></a>Build your own version control system server</h2><p>Once upon a time, I tried to install GitLab in RaspberryPi, but failed. Because GitLab need higher computer performance, the Pi is not capable.</p><p>Then I turn to Gogs. Gogs is similar to GitHub, but it’s functions is not as many as GitHub’s. Gogs is just satisfy me.</p><p>Here’s the installation steps:</p><h2 id="Auto-publish-your-own-Book"><a href="#Auto-publish-your-own-Book" class="headerlink" title="Auto publish your own Book"></a>Auto publish your own Book</h2><p>I have a Kindle PaperWhite2. My Kindle accompany me during my daily time. So there comes a question: Why don’t I write my own book? Well, using Raspberry can help me finsh this goal. </p><p>Here’s the steps to publish your own Book:</p><ol><li>Write book;</li><li>Generate book;</li><li>Publish book.</li></ol><h3 id="Write-book"><a href="#Write-book" class="headerlink" title="Write book"></a>Write book</h3><p>I write my own book using MarkDown. </p><p>Why do I use MarkDown? Well, MarkDown helps me just focus on my writing, so I don’t need to worry about format. I just type the words, and Markdown Will show it in a neatly, beautiful views. If you don’t know Markdown yet, then I suggest you to get start to learn Markdown. You’ll not regret this.</p><p>My book will be saved with the suffix of ‘md’. Then We move to next step.</p><h3 id="Generate-book"><a href="#Generate-book" class="headerlink" title="Generate book"></a>Generate book</h3><p>When I say I want generate book, it means I want to convert Markdown file to MOBI file. </p><p>What is MOBI file? Well, the MOBI file is used to Kindle. </p><h3 id="Publish-book"><a href="#Publish-book" class="headerlink" title="Publish book"></a>Publish book</h3><h2 id="Auto-send-mails"><a href="#Auto-send-mails" class="headerlink" title="Auto send mails"></a>Auto send mails</h2>]]></content:encoded>
+      
+      <comments>http://longway2go.github.io/2018/04/03/RaspberryPi-A-tiny-and-powerful-hardware/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://longway2go.github.io/2018/03/31/Introduction/</link>
+      <guid>http://longway2go.github.io/2018/03/31/Introduction/</guid>
+      <pubDate>Sat, 31 Mar 2018 06:10:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Hello Everyone! Today is worth remembering for me, since I finally start to build my own blog site. &lt;/p&gt;
+&lt;h2 id=&quot;Who-am-I&quot;&gt;&lt;a href=&quot;#Who-
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Hello Everyone! Today is worth remembering for me, since I finally start to build my own blog site. </p><h2 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I?"></a>Who am I?</h2><p>I’m a software engineer who loves coding and has much more interesting to new technology. Three years ago, I determined to be a full stack engineer, which seems impossible to me. Now I’m on my way. </p><p>I’m skilled with C, C++, MFC, Java, JavaScript, Docker, Jenkins, Node.js, and so on. Maybe it’s time now. I will try to combine these skills, make useful products.</p><h2 id="Thanks"><a href="#Thanks" class="headerlink" title="Thanks"></a>Thanks</h2><p>There’s an old saying, ‘A journey of a thousand miles begins with single step’. But I want to thank some person. Without them, without this blog.</p><p>First of all, I want to say thanks to my wife. Because she dose the most housework and cooks dinner for me, so that I can focus on my interest. And she encourages me when I feel down. It’s my lucky to marry her.</p><p>Second, I want to say thanks to my only pen-pal friend. We meet in about 7 years ago. She helps me to improve my English writing and gives me confidence. Because English is not my native language, I rarely pratice English on my daily life.</p><p>At last, I want to thank myself. Life is hard to ordinary people, including me. I have made too many choice at the cross roads. I thanks to myself to never give up, and rebuild my strength after every fails.</p>]]></content:encoded>
+      
+      <comments>http://longway2go.github.io/2018/03/31/Introduction/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>

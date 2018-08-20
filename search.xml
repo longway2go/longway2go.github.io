@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[How to earn more money?]]></title>
+    <url>%2F2018%2F05%2F18%2FHow-to-earn-more-money%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[RaspberryPi-A tiny and powerful hardware]]></title>
+    <url>%2F2018%2F04%2F03%2FRaspberryPi-A-tiny-and-powerful-hardware%2F</url>
+    <content type="text"><![CDATA[I have a Pi, I have a Raspberry. Ah~ RasberryPi. What is RaspberryPi? The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and in developing countries. What can RaspberryPi do?I’m a software developer, so I just foucs on software application. I bought my Raspberry Pi Mode 3B on 2017-03-06. Here’s my applications: Build your own blog site. Build your own version control system server. Auto publish your own Book. Auto send mails. Build your own blog siteUsing Hexo, you can build your own blog site in RaspberryPi. Here’s the installation steps: Install node.JS and npm. Install hexo-cli. Init your blog directory. Cfg your blog site. Build your own version control system serverOnce upon a time, I tried to install GitLab in RaspberryPi, but failed. Because GitLab need higher computer performance, the Pi is not capable. Then I turn to Gogs. Gogs is similar to GitHub, but it’s functions is not as many as GitHub’s. Gogs is just satisfy me. Here’s the installation steps: Auto publish your own BookI have a Kindle PaperWhite2. My Kindle accompany me during my daily time. So there comes a question: Why don’t I write my own book? Well, using Raspberry can help me finsh this goal. Here’s the steps to publish your own Book: Write book; Generate book; Publish book. Write bookI write my own book using MarkDown. Why do I use MarkDown? Well, MarkDown helps me just focus on my writing, so I don’t need to worry about format. I just type the words, and Markdown Will show it in a neatly, beautiful views. If you don’t know Markdown yet, then I suggest you to get start to learn Markdown. You’ll not regret this. My book will be saved with the suffix of ‘md’. Then We move to next step. Generate bookWhen I say I want generate book, it means I want to convert Markdown file to MOBI file. What is MOBI file? Well, the MOBI file is used to Kindle. Publish bookAuto send mails]]></content>
+      <categories>
+        <category>RaspberryPi</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Introduction]]></title>
+    <url>%2F2018%2F03%2F31%2FIntroduction%2F</url>
+    <content type="text"><![CDATA[Hello Everyone! Today is worth remembering for me, since I finally start to build my own blog site. Who am I?I’m a software engineer who loves coding and has much more interesting to new technology. Three years ago, I determined to be a full stack engineer, which seems impossible to me. Now I’m on my way. I’m skilled with C, C++, MFC, Java, JavaScript, Docker, Jenkins, Node.js, and so on. Maybe it’s time now. I will try to combine these skills, make useful products. ThanksThere’s an old saying, ‘A journey of a thousand miles begins with single step’. But I want to thank some person. Without them, without this blog. First of all, I want to say thanks to my wife. Because she dose the most housework and cooks dinner for me, so that I can focus on my interest. And she encourages me when I feel down. It’s my lucky to marry her. Second, I want to say thanks to my only pen-pal friend. We meet in about 7 years ago. She helps me to improve my English writing and gives me confidence. Because English is not my native language, I rarely pratice English on my daily life. At last, I want to thank myself. Life is hard to ordinary people, including me. I have made too many choice at the cross roads. I thanks to myself to never give up, and rebuild my strength after every fails.]]></content>
+  </entry>
+</search>
