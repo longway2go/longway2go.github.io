@@ -8,8 +8,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 20 Aug 2018 02:58:49 GMT</pubDate>
+    <pubDate>Tue, 21 Aug 2018 01:12:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Monero</title>
+      <link>http://longway2go.github.io/2018/08/21/Monero/</link>
+      <guid>http://longway2go.github.io/2018/08/21/Monero/</guid>
+      <pubDate>Tue, 21 Aug 2018 01:12:04 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;Maybe it’s late for me to get start to know monero. But I just meet monero yesterday. I heard bitcoin in many years before, 
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<blockquote><p>Maybe it’s late for me to get start to know monero. But I just meet monero yesterday. I heard bitcoin in many years before, but I never want to learn about it. I think the conception is hard to understand. But we all know that bitcoin becomes more and more popular. As far as I know, Monero is another kind of bitcoin.</p><p>The best way to learn something is you start to have a try. So here I am.</p></blockquote><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Here’s the official introduction about Monero:</p><p>Monero is cash for a connected world. It’s fast, private, and secure. With Monero, you are your own bank. You can spend safely, knowing that others cannot see your balances or track your activity.</p><h2 id="Monero-is-secure"><a href="#Monero-is-secure" class="headerlink" title="Monero is secure"></a>Monero is secure</h2><p>Monero is a decentralized cryptocurrency, meaning it is secure digital cash operated by a network of users. Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your Monero safe.</p><h2 id="Monero-is-private"><a href="#Monero-is-private" class="headerlink" title="Monero is private"></a>Monero is private</h2><p>Monero uses ring signatures, ring confidential transactions, and stealth address to obfuscate the origins, amounts, and destinations of all transactions. Monero provides all the benefits of a decentrallized cryptocurrency, without any of the typical privacy concessions.</p><h2 id="Monero-is-untraceable"><a href="#Monero-is-untraceable" class="headerlink" title="Monero is untraceable"></a>Monero is untraceable</h2><p>Sending and receiving addresses as well as transacted amounts are obfuscated by default. Transactions on the Monero blockchain cannot be linked to a particular user or real-world identity.</p><h2 id="Monero-is-fungible"><a href="#Monero-is-fungible" class="headerlink" title="Monero is fungible"></a>Monero is fungible</h2><p>Monero is fungible because it is private by default. Units of Monero cannot be blacklisted by vendors or exchanges due to their association in previous transactions.</p>]]></content:encoded>
+      
+      <comments>http://longway2go.github.io/2018/08/21/Monero/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>How to earn more money?</title>
