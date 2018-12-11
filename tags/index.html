@@ -315,7 +315,7 @@
                 3 tags in total
             </div>
             <div class="tag-cloud-tags">
-              <a href="/tags/Books/" style="font-size: 12px; color: #ccc">Books</a> <a href="/tags/Monero/" style="font-size: 12px; color: #ccc">Monero</a> <a href="/tags/RaspberryPi/" style="font-size: 12px; color: #ccc">RaspberryPi</a>
+              <a href="/tags/Books/" style="font-size: 30px; color: #111">Books</a> <a href="/tags/Monero/" style="font-size: 12px; color: #ccc">Monero</a> <a href="/tags/RaspberryPi/" style="font-size: 12px; color: #ccc">RaspberryPi</a>
             </div>
           </div>
         
@@ -335,6 +335,13 @@
 
 
           
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
 
   
 
@@ -375,7 +382,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">5</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -615,6 +622,45 @@
 
 
 
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: window.location.pathname, 
+            owner: 'longway2go',
+            repo: 'gitment-comments',
+            
+            lang: "en" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+                redirect_protocol: 'http://longway2go.top/',
+            
+            
+                client_secret: 'fcd4b2415c04dbd1214a52247ce6fe7334542e4d',
+            
+                client_id: '11f5cdef741c8d5927b6'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
 
 
 
